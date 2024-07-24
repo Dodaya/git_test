@@ -6,7 +6,7 @@ Git workflows
 3rd step:^s, to save file
 4th step:git status, to check status
 5th step:git add *(means specific file name)or.(means all files in the current directory and all subsequent directories), to stage files
-6th step:git commit -m"add *", to commit file
+6th step:git commit -m "*"or., to commit file
 7th step:git status, to check status
 8th step:git log, to check git record
 9th step:press q, to escape
