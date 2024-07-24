@@ -9,3 +9,5 @@ Git workflows
 6th step:git commit -m"add *", to commit file
 7th step:git status, to check status
 8th step:git log, to check git record
+9th step:press q, to escape
+10th step:git push or git push origin main, to push files
