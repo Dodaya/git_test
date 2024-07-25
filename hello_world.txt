@@ -1,11 +1,13 @@
 Git workflows
 1st step:touch *(means specific file name), to create some files
 2nd step:code .(means all files in the current directory and all subsequent directories)or*, to edit files
-3rd step:^s, to save file
+3rd step:^s（by using VScode）, to save file
 4th step:git status, to check status
-5th step:git add *(means specific file name)or.(means all files in the current directory and all subsequent directories), to stage files
+5th step:git add *(means specific file name)or.(means all files in the current directory and all subsequent directories), to stage files(i.e.related to the workflow)
 6th step:git commit -m "*"or., to commit file
 7th step:git status, to check status
-8th step:git log, to check git record
+8th step:git log, to check log history
 9th step:press q, to escape
-10th step:git push or git push origin main, to push files
+10th step:git push or git push origin main, to push files(i.e. related to a remote repository)
+
+The basic Git syntax is program | action | destination.
