@@ -4,7 +4,7 @@ Git workflows
 3rd step:^s（by using VScode）, to save file
 4th step:git status, to check status
 5th step:git add *(means specific file name)or.(means all files in the current directory and all subsequent directories), to stage files(i.e.related to the workflow)
-6th step:git commit -m "message", to commit file
+6th step:git commit -m "message"(or Just git commit, and write commit message in VScode,save it ^s ), to commit file
 7th step:git status, to check status
 8th step:git log, to check log history
 9th step:press q, to escape
